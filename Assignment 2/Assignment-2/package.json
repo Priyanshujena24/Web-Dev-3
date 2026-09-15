@@ -1,0 +1,16 @@
+{
+  "name": "student-management-rest-api",
+  "version": "1.0.0",
+  "description": "Beginner-friendly Student Management REST API using Node.js and Express.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
